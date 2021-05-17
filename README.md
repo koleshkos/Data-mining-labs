@@ -16,3 +16,7 @@ Laboratory work on data mining
 Use MATLAB
 
 Run file: `main.m`
+
+# Documentation
+
+Open: `source/Интеллектуальный анализ данных.pdf`
