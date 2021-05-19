@@ -15,6 +15,8 @@ Laboratory work on data mining
 
   Lab 6: "NEURAL NETWORK. KOHONEN LAYER"
 
+  Lab 7: "NEURAL NETWORKS. KOHONEN MAPS"
+
 # Use
 
 Use MATLAB
