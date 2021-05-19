@@ -25,6 +25,8 @@ Use MATLAB
 
 Run file: `main.m`
 
+Dataset for all choice: `source/dataset`
+
 # Documentation
 
 Open: `source/Интеллектуальный анализ данных.pdf`
