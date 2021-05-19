@@ -17,6 +17,8 @@ Laboratory work on data mining
 
   Lab 7: "NEURAL NETWORKS. KOHONEN MAPS"
 
+  Lab 8: "STOCHASTIC SEARCH METHODS"
+
 # Use
 
 Use MATLAB
